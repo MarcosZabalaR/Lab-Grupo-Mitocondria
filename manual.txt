@@ -1,0 +1,6 @@
+Bienvenido al Manual feature/manual
+Aquí explicaremos cómo funciona nuestro proyecto.
+Y también veremos los objetivos propuestos.
+Esperemos que encuetres este manual muy útil.
+Bueno, empecemos.
+
